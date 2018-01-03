@@ -8,10 +8,10 @@ public class HolaMundo{
 		String azul = "\033[34m";
 		int a = 5;
 		int b = 3;
-		System.out.println("Hola HolaMundo");
+		System.out.println(naranja + "Hola HolaMundo");
 
 		int c = a + b;
 
-		System.out.println("El Resultado es : " + c);
+		System.out.println(azul + "El Resultado es : " + c);
 	}
 }
